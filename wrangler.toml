@@ -1,0 +1,6 @@
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your worker on env.DB
+database_name = "taleblock"
+database_id = "a1157ff6-da20-4e4f-9230-1fa308bfbe8c"
+
